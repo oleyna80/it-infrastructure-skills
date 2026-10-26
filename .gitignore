@@ -1,0 +1,14 @@
+# Local and sensitive material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+secrets/
+private/
+evidence/private/
+*.log
+.DS_Store
