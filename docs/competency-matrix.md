@@ -9,7 +9,7 @@ No status means competence has been certified by an authorized jury.
 |---|---|---|---|---|
 | BC01-01 | Exploiter l’intelligence artificielle et encadrer son usage | Not assessed | Explain safe AI use and verify AI-assisted support output | — |
 | BC01-02 | Assurer le déploiement des équipements numériques et accompagner à l’utilisation des outils collaboratifs | Not assessed | Deploy workstation and document user onboarding | — |
-| BC01-03 | Apporter une assistance technique | Not assessed | Troubleshoot and document user incident | — |
+| BC01-03 | Apporter une assistance technique | Learning | Hands-on Windows diagnostic, event logs, resource monitoring, incident closure | [LAB-001](../labs/LAB-001-workstation-diagnostics.md) (simulated PASS 4/5); [LAB-002](../labs/LAB-002-windows-troubleshooting.md) (interview 3/5 provisional, practical pending; 2026-10-26) |
 | BC02-01 | Exploiter un réseau IP | Not assessed | Configure and diagnose segmented IP network | — |
 | BC02-02 | Installer et assurer l’exploitation de serveurs Windows et Linux | Not assessed | Build and operate Windows/Linux services | — |
 | BC02-03 | Exploiter des serveurs dans une infrastructure virtualisée | Not assessed | Deploy VMs and validate networking/storage | — |
